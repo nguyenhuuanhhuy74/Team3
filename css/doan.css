@@ -1,0 +1,56 @@
+
+.col-lg-2 img{
+    width: 220px;
+    border-radius: 90px;
+}
+.container .row {
+    width: 100%;
+
+}
+.container a:hover{
+    color: #761c19;
+    text-decoration: none;
+}
+label{
+    color: #c4e3f3;
+    margin-top: -3%;
+}
+
+.row {
+    margin-top: 1%;
+}
+.table-responsive h5{
+    margin-bottom: -3%;
+    width: 150px;
+    color: #c4e3f3;
+}
+input{
+    border-radius: 2px;
+    height: 16px;
+    width: 100px;
+}
+input[type=search] {
+    width: 15px;
+    padding-left: 10px;
+    color: transparent;
+    cursor: pointer;
+}
+input[type=search]:hover {
+    background-color: #fff;
+}
+input[type=search]:focus {
+    width: 130px;
+    padding-left: 32px;
+    color: #000;
+    background-color: #fff;
+    cursor: auto;
+}
+input:-moz-placeholder {
+    color: transparent;
+}
+.navbar-default {
+    background: black;
+}
+.navbar-header h2{
+    margin-top: -1%;
+}
